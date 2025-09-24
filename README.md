@@ -13,7 +13,8 @@ Dashboards
  - Bar chart and side-by-side bar chart analyzing strikes and grappling affect outcome
 4. Final overview
  - Interactive summary dashboard containing KPIs and highlights from each previous dashboard
-  
+
+** Screenshots of dashboard contained in images, full workbook in dashboards**
 
 Key Insights
 - Most fights end by decision, especially at lower weight classes
