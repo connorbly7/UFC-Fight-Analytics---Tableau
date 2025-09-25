@@ -18,11 +18,6 @@ Dashboards
  - Interactive summary dashboard containing KPIs and highlights from each previous dashboard
  - Tableau Public link: https://public.tableau.com/views/UFCFightStatsOverview1994-2024/UFCFightStatsOverview1994-2024?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-How to Access
-- Links to each dashboard included above
-- Screenshots included in images folder
-- File for the Tableau Public workbook included
-
 Key Insights
 - Most fights end by decision, especially at lower weight classes
 - Knockouts increase in likelihood as the weightclasses increase, and fight times decrease.
@@ -30,3 +25,7 @@ Key Insights
 - Average number of strikes thrown in a fight is 72.3
 - Fights with more takedown attempts are most likely to end in a decision
 
+How to Access
+- Links to each dashboard included above
+- Screenshots included in images folder
+- File for the Tableau Public workbook included
