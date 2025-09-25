@@ -7,12 +7,14 @@ Dataset
 Dashboards
 1. Fight Outcomes overview
  - Pie chart, timeline, and bar chart analyzing how fights end (KO/TKO, Submission, Decision).
+ - Tableau Public Link: https://public.tableau.com/views/ufc_analytics/FightOutcomesOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 2. Weight Class Analysis
  - Bar chart and heatmap analyzing how weight class effects fight duration and outcome.
 3. Fight Attributes - Striking and grappling
  - Bar chart and side-by-side bar chart analyzing strikes and grappling affect outcome
 4. Final overview
  - Interactive summary dashboard containing KPIs and highlights from each previous dashboard
+ - Tableau Public link: https://public.tableau.com/views/ufc_analytics_final_overview/UFCFightStatsOverview1994-2024?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ** Screenshots of dashboard contained in images, full workbook in dashboards**
 
