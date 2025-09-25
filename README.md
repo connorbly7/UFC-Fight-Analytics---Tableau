@@ -5,18 +5,23 @@ Dataset
 - Source: https://www.kaggle.com/datasets/maksbasher/ufc-complete-dataset-all-events-1996-2024 (Medium dataset)
 
 Dashboards
-1. Fight Outcomes overview
+1. Fight Outcomes Analysis
  - Pie chart, timeline, and bar chart analyzing how fights end (KO/TKO, Submission, Decision).
- - Tableau Public Link: https://public.tableau.com/views/ufc_analytics/FightOutcomesOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+ - Tableau Public Link: https://public.tableau.com/views/ufc_analytics/FightOutcomesOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 2. Weight Class Analysis
  - Bar chart and heatmap analyzing how weight class effects fight duration and outcome.
-3. Fight Attributes - Striking and grappling
+ - Tableau Public Link: https://public.tableau.com/views/ufc_weight_class_analysis/WeightClassAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+3. Fight Attributes - Striking and Grappling Analysis
  - Bar chart and side-by-side bar chart analyzing strikes and grappling affect outcome
+ - Tableau Public Link: https://public.tableau.com/views/UFCFightAttributes-StrikingandGrappling/FightAttributes-StrikingandGrappling?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 4. Final overview
  - Interactive summary dashboard containing KPIs and highlights from each previous dashboard
- - Tableau Public link: https://public.tableau.com/views/ufc_analytics_final_overview/UFCFightStatsOverview1994-2024?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+ - Tableau Public link: https://public.tableau.com/views/UFCFightStatsOverview1994-2024/UFCFightStatsOverview1994-2024?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-** Screenshots of dashboard contained in images, full workbook in dashboards**
+How to Access
+- Links to each dashboard included above
+- Screenshots included in images folder
+- File for the Tableau Public workbook included
 
 Key Insights
 - Most fights end by decision, especially at lower weight classes
