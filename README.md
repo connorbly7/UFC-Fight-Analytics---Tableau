@@ -12,7 +12,7 @@ Dashboards
  - Bar chart and heatmap analyzing how weight class effects fight duration and outcome.
  - Tableau Public Link: https://public.tableau.com/views/ufc_weight_class_analysis/WeightClassAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 3. Fight Attributes - Striking and Grappling Analysis
- - Bar chart and side-by-side bar chart analyzing strikes and grappling affect outcome
+ - Bar chart and side-by-side bar chart analyzing strikes and grappling affect outcome, as well as a timeline showing how average strikes has changed over time
  - Tableau Public Link: https://public.tableau.com/views/UFCFightAttributes-StrikingandGrappling/FightAttributes-StrikingandGrappling?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 4. Final overview
  - Interactive summary dashboard containing KPIs and highlights from each previous dashboard
