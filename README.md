@@ -23,7 +23,7 @@ Key Insights
 - Knockouts increase in likelihood as the weight class increases, and fight times decrease.
 - Average fight time is 3.8 minutes
 - Average number of strikes thrown in a fight is 72.3
-- Fights with more takedown attempts are most likely to end in a decision
+- Fights with more takedown attempts are more likely to end in a decision
 
 How to Access
 - Links to each dashboard included above (on Tableau Public, view in fullscreen for best view)
